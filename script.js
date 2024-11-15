@@ -1,5 +1,5 @@
 // Connect Wallet and Register for Airdrop
-async function connectWallet() {
+async function connectWalle() {
   // Check if the Solana wallet is installed (e.g., Phantom)
   if (window.solana && window.solana.isPhantom) {
     try {
